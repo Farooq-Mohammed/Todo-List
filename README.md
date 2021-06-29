@@ -1,6 +1,8 @@
 # Todo-List
 
-## 
-1. Add todo's
-2. Accomplish them
-3. Mark as complete
+A simple todo list webapp based on Html, CSS, JavaScript
+
+## Operations
+• Add todo's
+• organize todo's
+• Remove todo's
