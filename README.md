@@ -1,6 +1,6 @@
 # Todo-List
 
-A simple To-Do list based on Html, CSS, JavaScript
+A simple To-Do list based on Html, CSS and JavaScript
 
 
 ## Operations
