@@ -1,6 +1,6 @@
 # Todo-List
 
-A simple [To-Do](todo-list-ed.netlify.app) list based on Html, CSS and JavaScript
+A simple [To-Do](https://todo-list-ed.netlify.app/) list based on Html, CSS and JavaScript
 
 
 ## Operations
